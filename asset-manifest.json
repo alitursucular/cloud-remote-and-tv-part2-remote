@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cloud-remote-and-tv-part2-remote/static/css/main.8d6a17ca.css",
+    "main.js": "/cloud-remote-and-tv-part2-remote/static/js/main.f02e2f9a.js",
+    "static/js/787.bebf7f0b.chunk.js": "/cloud-remote-and-tv-part2-remote/static/js/787.bebf7f0b.chunk.js",
+    "index.html": "/cloud-remote-and-tv-part2-remote/index.html",
+    "main.8d6a17ca.css.map": "/cloud-remote-and-tv-part2-remote/static/css/main.8d6a17ca.css.map",
+    "main.f02e2f9a.js.map": "/cloud-remote-and-tv-part2-remote/static/js/main.f02e2f9a.js.map",
+    "787.bebf7f0b.chunk.js.map": "/cloud-remote-and-tv-part2-remote/static/js/787.bebf7f0b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d6a17ca.css",
+    "static/js/main.f02e2f9a.js"
+  ]
+}
