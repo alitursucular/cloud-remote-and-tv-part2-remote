@@ -35,8 +35,8 @@ const DefaultButton = styled.button`
             switch (size) {
                 case "small":
                     return css`
-                        min-width: 48px;
-                        min-height: 48px;
+                        min-width: 32px;
+                        min-height: 32px;
                         font-size: 12px;
 
                         svg {
@@ -46,8 +46,8 @@ const DefaultButton = styled.button`
                     `;
                 case "medium":
                     return css`
-                        min-width: 96px;
-                        min-height: 96px;
+                        min-width: 80px;
+                        min-height: 80px;
                         font-size: 18px;
 
                         svg {
@@ -57,8 +57,8 @@ const DefaultButton = styled.button`
                     `;
                 case "large":
                     return css`
-                        min-width: 144px;
-                        min-height: 144px;
+                        min-width: 128px;
+                        min-height: 128px;
                         font-size: 24px;
 
                         svg {

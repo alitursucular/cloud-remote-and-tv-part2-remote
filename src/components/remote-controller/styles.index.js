@@ -4,6 +4,9 @@ const RemoteContainer = styled.div`
     display: flex;
     flex-flow: column nowrap;
     margin-top: 48px;
+    @media only screen and (max-width: 600px) {
+        margin: 12px 0;
+    }
 `;
 
 const DisplaySection = styled.div`
